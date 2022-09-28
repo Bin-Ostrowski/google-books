@@ -24,7 +24,7 @@ type User {
 
 # define saveBook input type
 input bookDataInput {
-        author: [String]
+        authors: [String]
         description: String 
         title: String! 
         bookId: String!
