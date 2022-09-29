@@ -19,7 +19,10 @@
   4. Run the command `npm run develop` to run the server and open the app on a localhost.
   6. If browser does not automatically open, navigate to http://localhost:3000
   7. Sing In.
+
+
   ## Usage
+  [click here to deploy application!](https://immense-citadel-75341.herokuapp.com/)
 
  
   ## Questions
