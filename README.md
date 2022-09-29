@@ -6,11 +6,15 @@
     SO THAT I can keep a list of books to purchase
           
   ## Table of Content
-  - [Screenshot](#screenshot)
   - [Description](#description)
+  - [Screenshot](#screenshot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Questions](#questions)
+
+  ## Screenshot
+
+  ![Screenshot](./client/src/assets/img/screenshot.PNG)
   
   ## Installation
   1. Download the repository google-books from bin-ostrowski's GitHub. 
