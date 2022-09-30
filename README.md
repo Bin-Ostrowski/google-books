@@ -1,9 +1,8 @@
 # Goodle Books 
         
   ## Description
-    AS AN avid reader
-    I WANT to search for new books to read
-    SO THAT I can keep a list of books to purchase
+  Google Books provides a platform for users to search for new books to read and keep a list of books to purchase.
+  It was an existing full-stack MERN app using RESTful API. The code was refactored to set up an Apollo Server to use GraphQL queries and mutations to fetch and modify   data, replacing the existing RESTful API.
           
   ## Table of Content
   - [Description](#description)
